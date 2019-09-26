@@ -3,4 +3,6 @@
     <string name="Title">Velkommen</string>
     <string name="Btn">Tryk Her</string>
     <string name="StatusText">status</string>
+    <string name="urlEditText">url</string>
+    <string name="Btn01">OK</string>
 </resources>
